@@ -182,7 +182,7 @@ export default function Foods({ language }) {
               >
                 {props.name[ind]}
               </h1>
-              <p>{props.description[ind].slice(0, 40) + "..."}</p>
+              <p>{props.description[ind].slice(0, 30) + "..."}</p>
               {/* Open the modal using document.getElementById('ID').showModal() method */}
               <button className="btn" onClick={() => setSelectedItem(props)}>
                 {more[ind]}
