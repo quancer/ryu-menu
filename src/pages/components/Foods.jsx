@@ -93,7 +93,7 @@ export default function Foods({ language }) {
       ],
     },
     {
-      name: ["Самгёопсал 2 хүнийх", "Samgyeopsal 2 person"],
+      name: ["Самгёбсал 2 хүнийх", "Samgyeopsal 2 person"],
       pic: "./Samgyeopsal.png",
       price: 50000,
       category: "2rhool",
@@ -103,7 +103,7 @@ export default function Foods({ language }) {
       ],
     },
     {
-      name: ["Самгёопсал 4 хүнийх", "Samgyeopsal 4 person"],
+      name: ["Самгёбсал 4 хүнийх", "Samgyeopsal 4 person"],
       pic: "./Samgyeopsal.png",
       price: 70000,
       category: "2rhool",
@@ -118,7 +118,7 @@ export default function Foods({ language }) {
       price: 18000,
       category: "Salad",
       description: [
-        "тортилла гурил, блогнизь соус, салса, 2 төрлийн маёо соус",
+        "тортилла гурил, болоньез соус, салса, 2 төрлийн маёо соус",
         "tortilla flour, blognese sous, salsa, mayo sous chilli mayo sous",
       ],
     },
@@ -134,23 +134,13 @@ export default function Foods({ language }) {
       ],
     },
     {
-      name: ["Карри", "Karaage"],
+      name: ["Кацу карри", "Katsu curry"],
       pic: "./Katsu_curry.png",
       price: 25000,
       category: "2r hool",
       description: [
         "амталсан тахианы гуя, рокет навч, лемон, будаа, мисо шөл",
         "chiken, rocket lettuce, lemon, mayio sous, rice, miso soup",
-      ],
-    },
-    {
-      name: ["Карри соустай тахиа", "Chicken katsuu with carry sous"],
-      pic: "./chicken.png",
-      price: 25000,
-      category: "2rhool",
-      description: [
-        "амталсан тахианы цээж, брокколи, карри соус, будаа, мисо шөл",
-        "chicken, broccoli, rice, carry sous, miso soup",
       ],
     },
   ];
