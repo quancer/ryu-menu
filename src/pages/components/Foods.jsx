@@ -68,7 +68,7 @@ export default function Foods({ language }) {
       price: 45000,
       category: "pizza",
       description: [
-        "гурил, соус, моццерелла, тахианы мах, чинжүү, халуун ногойтой соус, чинжүү, амталсан соус",
+        "гурил, соус, моццерела, тахианы мах, чинжүү, халуун ногойтой соус, чинжүү, амталсан соус",
         "pizza flour, hand made sous, mozzeralla, chicken, jallapenho, spicy sous, harlic butter",
       ],
     },
@@ -78,7 +78,7 @@ export default function Foods({ language }) {
       price: 45000,
       category: "pizza",
       description: [
-        "гурил, соус, моццерелла, пепперони, амталсан масло",
+        "гурил, соус, моццерела, пеперони, амталсан масло",
         "pizza flour, hand made sous, mozzeralla, pepperoni, garlic butter",
       ],
     },
@@ -88,7 +88,7 @@ export default function Foods({ language }) {
       price: 45000,
       category: "pizza",
       description: [
-        "гурил, соус, моццерелла, бекон, үхрийн мах, тахианы мах, хар олив, амталсан масло",
+        "гурил, соус, моццерела, бекон, үхрийн мах, тахианы мах, хар олив, амталсан масло",
         "flour, hand made sous, mozzeralla, beef chicken, bacon, black oliver, garlic butter",
       ],
     },
